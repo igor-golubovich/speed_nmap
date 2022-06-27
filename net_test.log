@@ -154,3 +154,29 @@ Packet Loss:     0.0%
 .
 .
 
+Mon Jun 27 15:20:01 UTC 2022
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-06-27 15:20 UTC
+Nmap scan report for 192.168.0.20
+Host is up (0.0053s latency).
+Nmap scan report for 192.168.0.45
+Host is up (0.0022s latency).
+Nmap scan report for 192.168.0.111
+Host is up (0.0048s latency).
+Nmap scan report for 192.168.0.113
+Host is up (0.11s latency).
+Nmap done: 256 IP addresses (4 hosts up) scanned in 23.66 seconds
+
+   Speedtest by Ookla
+
+     Server: Amigo.Minsk - Minsk (id = 32929)
+        ISP: A1 Belarus
+    Latency:     2.93 ms   (0.91 ms jitter)
+   Download:    94.69 Mbps (data used: 42.8 MB )                               
+     Upload:    94.62 Mbps (data used: 43.1 MB )                               
+Packet Loss:     0.0%
+ Result URL: https://www.speedtest.net/result/c/bf7d96d1-3cef-4444-ba6f-9aa0fc7ca499
+.
+.
+.
+
