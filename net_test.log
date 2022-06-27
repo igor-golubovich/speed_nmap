@@ -206,3 +206,29 @@ Packet Loss:     0.0%
 .
 .
 
+Mon Jun 27 15:30:00 UTC 2022
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-06-27 15:30 UTC
+Nmap scan report for 192.168.0.20
+Host is up (0.0045s latency).
+Nmap scan report for 192.168.0.45
+Host is up (0.0032s latency).
+Nmap scan report for 192.168.0.111
+Host is up (0.021s latency).
+Nmap scan report for 192.168.0.113
+Host is up (0.034s latency).
+Nmap done: 256 IP addresses (4 hosts up) scanned in 6.58 seconds
+
+   Speedtest by Ookla
+
+     Server: Mobile TeleSystems JLLC - Minsk (id = 4268)
+        ISP: A1 Belarus
+    Latency:     2.29 ms   (0.36 ms jitter)
+   Download:    94.88 Mbps (data used: 65.2 MB )                               
+     Upload:    94.58 Mbps (data used: 43.8 MB )                               
+Packet Loss:     0.0%
+ Result URL: https://www.speedtest.net/result/c/f239c36b-4e64-4e18-bef9-7d58eff17ad0
+.
+.
+.
+
