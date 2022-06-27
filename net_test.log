@@ -24,3 +24,133 @@ Packet Loss:     0.0%
 .
 .
 
+Mon Jun 27 15:00:00 UTC 2022
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-06-27 15:00 UTC
+Nmap scan report for 192.168.0.20
+Host is up (0.00028s latency).
+Nmap scan report for 192.168.0.45
+Host is up (0.0019s latency).
+Nmap scan report for 192.168.0.111
+Host is up (0.0079s latency).
+Nmap scan report for 192.168.0.113
+Host is up (0.056s latency).
+Nmap done: 256 IP addresses (4 hosts up) scanned in 3.65 seconds
+
+   Speedtest by Ookla
+
+     Server: BYFLY.BY - Minsk (id = 25480)
+        ISP: A1 Belarus
+    Latency:     2.09 ms   (0.20 ms jitter)
+   Download:    94.85 Mbps (data used: 42.8 MB )                               
+     Upload:    94.65 Mbps (data used: 42.8 MB )                               
+Packet Loss:     0.0%
+ Result URL: https://www.speedtest.net/result/c/a251ccc2-4d9b-458e-84cb-78b69576258d
+.
+.
+.
+
+Mon Jun 27 15:05:00 UTC 2022
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-06-27 15:05 UTC
+Nmap scan report for 192.168.0.20
+Host is up (0.00066s latency).
+Nmap scan report for 192.168.0.45
+Host is up (0.0097s latency).
+Nmap scan report for 192.168.0.111
+Host is up (0.015s latency).
+Nmap scan report for 192.168.0.113
+Host is up (0.21s latency).
+Nmap done: 256 IP addresses (4 hosts up) scanned in 44.82 seconds
+
+   Speedtest by Ookla
+
+     Server: MGTS - Minsk (id = 1119)
+        ISP: A1 Belarus
+    Latency:     2.06 ms   (0.75 ms jitter)
+   Download:    95.20 Mbps (data used: 42.8 MB )                               
+     Upload:    94.65 Mbps (data used: 42.6 MB )                               
+Packet Loss:     0.0%
+ Result URL: https://www.speedtest.net/result/c/09260a89-adfc-41e5-b5b9-1d4b0067feaa
+.
+.
+.
+
+Mon Jun 27 15:10:00 UTC 2022
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-06-27 15:10 UTC
+Nmap scan report for 192.168.0.20
+Host is up (0.00060s latency).
+Nmap scan report for 192.168.0.45
+Host is up (0.00098s latency).
+Nmap scan report for 192.168.0.111
+Host is up (0.014s latency).
+Nmap scan report for 192.168.0.113
+Host is up (0.019s latency).
+Nmap done: 256 IP addresses (4 hosts up) scanned in 3.43 seconds
+
+   Speedtest by Ookla
+
+     Server: JLLC "COSMOS TV" - Minsk (id = 10323)
+        ISP: A1 Belarus
+    Latency:     2.07 ms   (0.46 ms jitter)
+   Download:    94.50 Mbps (data used: 47.4 MB )                               
+     Upload:    94.65 Mbps (data used: 42.6 MB )                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/8d0b4771-2669-46a6-9199-b97159a736de
+.
+.
+.
+
+Mon Jun 27 15:15:00 UTC 2022
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-06-27 15:15 UTC
+Nmap scan report for 192.168.0.20
+Host is up (0.00037s latency).
+Nmap scan report for 192.168.0.45
+Host is up (0.0015s latency).
+Nmap scan report for 192.168.0.111
+Host is up (0.022s latency).
+Nmap scan report for 192.168.0.113
+Host is up (0.11s latency).
+Nmap done: 256 IP addresses (4 hosts up) scanned in 3.44 seconds
+
+   Speedtest by Ookla
+
+     Server: JLLC "COSMOS TV" - Minsk (id = 10323)
+        ISP: A1 Belarus
+    Latency:     2.11 ms   (0.37 ms jitter)
+   Download:    94.05 Mbps (data used: 42.8 MB )                               
+     Upload:    94.65 Mbps (data used: 43.0 MB )                               
+Packet Loss: Not available.
+ Result URL: https://www.speedtest.net/result/c/5a4b27ed-c996-4e63-bbbb-69d7eaedb14b
+.
+.
+.
+
+Mon Jun 27 15:17:30 UTC 2022
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-06-27 15:17 UTC
+Nmap scan report for 192.168.0.20
+Host is up (0.00031s latency).
+Nmap scan report for 192.168.0.45
+Host is up (0.00079s latency).
+Nmap scan report for 192.168.0.111
+Host is up (0.0071s latency).
+Nmap scan report for 192.168.0.113
+Host is up (0.019s latency).
+Nmap done: 256 IP addresses (4 hosts up) scanned in 3.36 seconds
+
+   Speedtest by Ookla
+
+     Server: BYFLY.BY - Minsk (id = 25480)
+        ISP: A1 Belarus
+    Latency:     2.06 ms   (0.20 ms jitter)
+   Download:    95.68 Mbps (data used: 48.8 MB )                               
+     Upload:    94.62 Mbps (data used: 42.6 MB )                               
+Packet Loss:     0.0%
+ Result URL: https://www.speedtest.net/result/c/a9992f38-6f94-4292-b09e-28abe379a4e9
+.
+.
+.
+
