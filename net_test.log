@@ -180,3 +180,29 @@ Packet Loss:     0.0%
 .
 .
 
+Mon Jun 27 15:25:00 UTC 2022
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-06-27 15:25 UTC
+Nmap scan report for 192.168.0.20
+Host is up (0.00047s latency).
+Nmap scan report for 192.168.0.45
+Host is up (0.0090s latency).
+Nmap scan report for 192.168.0.111
+Host is up (0.016s latency).
+Nmap scan report for 192.168.0.113
+Host is up (0.095s latency).
+Nmap done: 256 IP addresses (4 hosts up) scanned in 3.74 seconds
+
+   Speedtest by Ookla
+
+     Server: MGTS - Minsk (id = 1119)
+        ISP: A1 Belarus
+    Latency:     2.08 ms   (0.06 ms jitter)
+   Download:    94.73 Mbps (data used: 42.8 MB )                               
+     Upload:    94.64 Mbps (data used: 42.6 MB )                               
+Packet Loss:     0.0%
+ Result URL: https://www.speedtest.net/result/c/c7d5d18a-3f67-4e87-86dd-0b1895f42bad
+.
+.
+.
+
