@@ -1,0 +1,26 @@
+Mon Jun 27 14:58:07 UTC 2022
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2022-06-27 14:58 UTC
+Nmap scan report for 192.168.0.20
+Host is up (0.011s latency).
+Nmap scan report for 192.168.0.45
+Host is up (0.0042s latency).
+Nmap scan report for 192.168.0.111
+Host is up (0.033s latency).
+Nmap scan report for 192.168.0.113
+Host is up (0.037s latency).
+Nmap done: 256 IP addresses (4 hosts up) scanned in 7.17 seconds
+
+   Speedtest by Ookla
+
+     Server: BYFLY.BY - Minsk (id = 25480)
+        ISP: A1 Belarus
+    Latency:     1.99 ms   (0.23 ms jitter)
+   Download:    95.09 Mbps (data used: 42.9 MB )                               
+     Upload:    94.62 Mbps (data used: 42.6 MB )                               
+Packet Loss:     0.0%
+ Result URL: https://www.speedtest.net/result/c/b648d3ec-fd05-4dea-ac76-cdd6fa633ea0
+.
+.
+.
+
